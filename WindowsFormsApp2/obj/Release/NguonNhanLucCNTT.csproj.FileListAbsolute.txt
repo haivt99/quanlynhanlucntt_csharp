@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.BieuDo.resources
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.frmLuaChon1.resources
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.frmLuaChon2.resources
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.frmLuaChon4.resources
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.frmLuaChon6.resources
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\NguonNhanLucCNTT.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\NguonNhanLucCNTT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Admin\Desktop\IS - Copy\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
